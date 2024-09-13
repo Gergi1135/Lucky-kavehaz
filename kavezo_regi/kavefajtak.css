@@ -1,0 +1,40 @@
+body{
+    background-image: url(green.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-color: lightgreen;
+    width: 600;
+}
+div{
+    margin: auto;
+    text-align: center;
+}
+h1{
+    font-family: Verdana;
+    margin-bottom: 200px
+}
+h2{
+    
+    font-family: Verdana;
+    color: grey;
+}
+p{
+    text-align: center;
+}
+
+table{
+    border: 5px solid gray;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    padding: 10px solid;
+    margin: 0 auto;
+    margin-top: auto;
+}
+td{
+    border: solid black 2.5px;
+    padding: 7px;
+}
+#td.p{
+    text-align: center;
+}
